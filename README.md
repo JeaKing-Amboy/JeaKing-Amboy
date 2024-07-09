@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi There!! 👋
+
+# **I Am Jeannie King**
+
+##I teach 6-8 Math at *Amboy Jr. High School*.  I also teach CS intro using Code.org curriculum.  This year I am being asked to teach the CS intro class as well as the CS novice class as a follow-up for students who **successfully** completed the CS intro class.
+
+###Teaching in my second career.  Prior to teaching I was a Pharmacist.  After my life was threatened and I had to have police escort in and out of the store as well as to and from my home to the store.  I decided this was not for me and went back to school to get my teaching degree.  My teaching degree is in special education and I have a Masters in STEM/STEAM education and 
+
+
+![math](https://github.com/JeaKing-Amboy/JeaKing-Amboy/assets/175134660/5cce6eb0-fb9e-4b73-af89-46616692be20)
 
 <!--
 **JeaKing-Amboy/JeaKing-Amboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
